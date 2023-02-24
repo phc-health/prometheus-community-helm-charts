@@ -1,5 +1,5 @@
 # All files are owned by engineering and cloud-ops by default
-*   @phc-health/product-engineering @phc-health/cloud-operations-engineering
+*   @phc-health/cloud-operations-engineering
 
 # The following files should always be reviewed by a cloud-ops member
 *.tf @phc-health/cloud-operations-engineering
